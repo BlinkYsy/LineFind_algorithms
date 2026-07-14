@@ -13,5 +13,3 @@ x86/
 *.log
 *.VC.db
 *.VC.VC.opendb
-/_Debug/
-/_Release/

@@ -1,0 +1,41 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37216.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencv_linedectect", "linedectect-master\\opencv_linedectect.vcxproj", "{1B5AFB36-3E37-4F2E-A0B1-CA152F687721}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Linefind_demo", "Linefind_demo\\Linefind_demo.vcxproj", "{F7AEA674-9B20-4628-A548-F7C9B234D151}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B5AFB36-3E37-4F2E-A0B1-CA152F687721}.Debug|x64.ActiveCfg = Debug|x64
+		{1B5AFB36-3E37-4F2E-A0B1-CA152F687721}.Debug|x64.Build.0 = Debug|x64
+		{1B5AFB36-3E37-4F2E-A0B1-CA152F687721}.Debug|x86.ActiveCfg = Debug|Win32
+		{1B5AFB36-3E37-4F2E-A0B1-CA152F687721}.Debug|x86.Build.0 = Debug|Win32
+		{1B5AFB36-3E37-4F2E-A0B1-CA152F687721}.Release|x64.ActiveCfg = Release|x64
+		{1B5AFB36-3E37-4F2E-A0B1-CA152F687721}.Release|x64.Build.0 = Release|x64
+		{1B5AFB36-3E37-4F2E-A0B1-CA152F687721}.Release|x86.ActiveCfg = Release|Win32
+		{1B5AFB36-3E37-4F2E-A0B1-CA152F687721}.Release|x86.Build.0 = Release|Win32
+		{F7AEA674-9B20-4628-A548-F7C9B234D151}.Debug|x64.ActiveCfg = Debug|x64
+		{F7AEA674-9B20-4628-A548-F7C9B234D151}.Debug|x64.Build.0 = Debug|x64
+		{F7AEA674-9B20-4628-A548-F7C9B234D151}.Debug|x86.ActiveCfg = Debug|Win32
+		{F7AEA674-9B20-4628-A548-F7C9B234D151}.Debug|x86.Build.0 = Debug|Win32
+		{F7AEA674-9B20-4628-A548-F7C9B234D151}.Release|x64.ActiveCfg = Release|x64
+		{F7AEA674-9B20-4628-A548-F7C9B234D151}.Release|x64.Build.0 = Release|x64
+		{F7AEA674-9B20-4628-A548-F7C9B234D151}.Release|x86.ActiveCfg = Release|Win32
+		{F7AEA674-9B20-4628-A548-F7C9B234D151}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {052B81FE-BA5B-4A0C-8B42-060C9DAF7652}
+	EndGlobalSection
+EndGlobal
