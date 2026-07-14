@@ -1,0 +1,15 @@
+# Visual Studio per-user and build output
+*.user
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.VC.db
+*.VC.VC.opendb
